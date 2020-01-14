@@ -11,7 +11,8 @@
       即：vscode默认以当前目录为项目目录
     4、在vscode中创建新源码文件 main.cpp 编写简单的hello 代码
     5、在“终端”菜单选择“生成默认任务”，在弹出菜单选择“g++ build active file",会生成task.json文件，内容为
-    ```
+    
+```
     {
 // 有关 tasks.json 格式的文档，请参见
     // https://go.microsoft.com/fwlink/?LinkId=733558
